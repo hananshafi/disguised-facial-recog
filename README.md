@@ -1,2 +1,2 @@
-# Disguised-Facial-Recognition
-This Keras code represents a deep Convolutional Neural Network designed to detect 20 specific facial key-points on a disguised face.
+# Disguised-Facial-Recognition-DiFRuNNT
+Read my Research paper "Disguised Facial Recognition Using Neural Networks" @ [This link](https://bit.ly/2RGGtYh) for explanation 
