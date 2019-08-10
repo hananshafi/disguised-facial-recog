@@ -6,5 +6,3 @@
 
 - Testing:
 	- For taking predictions from model, run **loadClassModel.py**, which will give accuracy of predictions from ground truth.
-
-Contact `abhinandan_17btech15@nitsri.ac.in` to get **classifier.h5**
